@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=szcheme
+Comment=something
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=szcheme
+GtkTheme=szcheme
+IconTheme=szcheme
+MetacityTheme=szcheme
